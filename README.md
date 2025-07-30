@@ -10,7 +10,7 @@ Add tasks, mark them as done, edit them, delete them — and track your progress
 - ✏️ **Edit tasks** by double-clicking
 - 🗑️ **Delete tasks** with a built-in delete button
 - 📊 **Live progress tracker** with stats and progress bar
-- 🎨 **Clean, modern design** with responsive styling
+- 🎨 **Clean, modern design** with responsive styling 
 
 ## 🚀 How to Run
 
