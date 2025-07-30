@@ -26,20 +26,7 @@ Add tasks, mark them as done, edit them, delete them — and track your progress
 
 📸 Screenshots
 
-https://github.com/mohitsonale/TODO-LIST/blob/393e1d6b2c40cb6e8c6934285df0df474cf3a9b5/Screenshot%20(1228).png
-https://github.com/mohitsonale/TODO-LIST/blob/393e1d6b2c40cb6e8c6934285df0df474cf3a9b5/Screenshot%20(1229).png
-https://github.com/mohitsonale/TODO-LIST/blob/393e1d6b2c40cb6e8c6934285df0df474cf3a9b5/Screenshot%20(1230).png
-https://github.com/mohitsonale/TODO-LIST/blob/393e1d6b2c40cb6e8c6934285df0df474cf3a9b5/Screenshot%20(1231).png
-https://github.com/mohitsonale/TODO-LIST/blob/393e1d6b2c40cb6e8c6934285df0df474cf3a9b5/Screenshot%20(1232).png
-https://github.com/mohitsonale/TODO-LIST/blob/393e1d6b2c40cb6e8c6934285df0df474cf3a9b5/Screenshot%20(1233).png
-https://github.com/mohitsonale/TODO-LIST/blob/393e1d6b2c40cb6e8c6934285df0df474cf3a9b5/Screenshot%20(1234).png
-https://github.com/mohitsonale/TODO-LIST/blob/393e1d6b2c40cb6e8c6934285df0df474cf3a9b5/Screenshot%20(1235).png
-https://github.com/mohitsonale/TODO-LIST/blob/393e1d6b2c40cb6e8c6934285df0df474cf3a9b5/Screenshot%20(1236).png
-https://github.com/mohitsonale/TODO-LIST/blob/393e1d6b2c40cb6e8c6934285df0df474cf3a9b5/Screenshot%20(1237).png
-https://github.com/mohitsonale/TODO-LIST/blob/393e1d6b2c40cb6e8c6934285df0df474cf3a9b5/Screenshot%20(1238).png
-https://github.com/mohitsonale/TODO-LIST/blob/393e1d6b2c40cb6e8c6934285df0df474cf3a9b5/Screenshot%20(1239).png
-https://github.com/mohitsonale/TODO-LIST/blob/393e1d6b2c40cb6e8c6934285df0df474cf3a9b5/Screenshot%20(1240).png
-https://github.com/mohitsonale/TODO-LIST/blob/393e1d6b2c40cb6e8c6934285df0df474cf3a9b5/Screenshot%20(1241).png
+https://github.com/mohitsonale/TODO-LIST/tree/f4b64be45355c2f5587ad78e4d3ce8e456019d2f/images
 
 🛠️ How It Works
 -Add Task: Type your task in the input field and click the + button.
